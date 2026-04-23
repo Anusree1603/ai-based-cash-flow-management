@@ -1,4 +1,4 @@
-# AI Cash Flow Management System
+# AI-Based Cash Flow Management System
 
 ## 📌 Description
 AI-based web application that tracks income and expenses and predicts future cash flow using historical financial data.
