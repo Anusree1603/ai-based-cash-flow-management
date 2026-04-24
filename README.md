@@ -23,3 +23,6 @@ AI-based web application that tracks income and expenses and predicts future cas
 ## 📸 Output
 ![Dashboard](https://github.com/user-attachments/assets/bc02b068-6add-4711-a5fa-bad0e6f40ee9)
 
+## 👩‍💻 Author
+Anusree R
+
